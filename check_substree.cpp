@@ -21,7 +21,7 @@
  *    a   b   k
  *     \
  *      c
- *
+ * The complexity of the algorithm is O(n^2)
  */
 
 #include<iostream>
